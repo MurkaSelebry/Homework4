@@ -1,0 +1,14 @@
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\bin\Debug\Work2410.exe.config
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\bin\Debug\Work2410.exe
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\bin\Debug\Work2410.pdb
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.csproj.AssemblyReference.cache
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.csproj.SuggestedBindingRedirects.cache
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.Child.resources
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.Parent.resources
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.Properties.Resources.resources
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.csproj.GenerateResource.cache
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.csproj.CoreCompileInputs.cache
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.exe
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.pdb
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.Child2.resources
+C:\Users\selebry\source\repos\Top\Work2410\Work2410\obj\Debug\Work2410.Parent2.resources
